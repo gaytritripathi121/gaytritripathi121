@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-Hello, I am Gaytri, a passionate developer looking to intern in Data Science, Machine Learning, and Full Stack Development.
+Hello, I am Gaytri, a passionate developer looking to intern in Data Science, Machine Learning, Software Development and Full Stack Development.
 
 I am proficient in JavaScript, Python, and Java, and develop scalable web applications using React.js, Next.js, Node.js, Express.js, MongoDB, HTML, CSS, and Tailwind CSS. I am interested in developing clean, readable code and creating responsive, user-friendly applications.
 
